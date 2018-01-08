@@ -1,0 +1,22 @@
+{
+  "name": "aprendendo-resposivo-php",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoisesBumba/aprendendo-resposivo-php.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoisesBumba/aprendendo-resposivo-php/issues"
+  },
+  "homepage": "https://github.com/MoisesBumba/aprendendo-resposivo-php#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
