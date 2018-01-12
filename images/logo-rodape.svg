@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Camada_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 150" style="enable-background:new 0 0 200 150;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{fill:#990000;}
+	.st7{font-family:'OleoScript-Regular';}
+	.st8{font-size:44.2296px;}
+	.st9{fill:#333300;}
+	.st10{font-family:'Pattaya-Regular';}
+	.st11{font-size:18.9556px;}
+</style>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="155.9464" y1="11.3504" x2="27.049" y2="100.1761">
+		<stop  offset="0" style="stop-color:#5FA733"/>
+		<stop  offset="0.7508" style="stop-color:#315614"/>
+		<stop  offset="0.9274" style="stop-color:#559222"/>
+		<stop  offset="0.9389" style="stop-color:#4F8820"/>
+		<stop  offset="1" style="stop-color:#315614"/>
+	</linearGradient>
+	<path class="st0" d="M78.8,65.2c-5.1-3.8-9-9.1-10.9-15.3c3.3,12.8,13.4,22.9,26.2,26.2C87.9,74.2,82.5,70.3,78.8,65.2z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="83.2152" y1="73.69" x2="135.6425" y2="5.2341">
+		<stop  offset="0" style="stop-color:#EFC23E"/>
+		<stop  offset="0.7541" style="stop-color:#786718"/>
+		<stop  offset="0.9274" style="stop-color:#9F8720"/>
+		<stop  offset="1" style="stop-color:#786718"/>
+	</linearGradient>
+	<path class="st1" d="M127.7,16.3c5.1,3.8,9,9.1,10.9,15.3c-3.3-12.8-13.4-22.9-26.2-26.2C118.5,7.3,123.9,11.2,127.7,16.3z"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="151.4674" y1="73.0607" x2="35.5932" y2="28.3139">
+		<stop  offset="0" style="stop-color:#DF6543"/>
+		<stop  offset="0.7252" style="stop-color:#7E0000"/>
+		<stop  offset="0.9274" style="stop-color:#C8370D"/>
+		<stop  offset="0.9499" style="stop-color:#B02509"/>
+		<stop  offset="1" style="stop-color:#7E0000"/>
+	</linearGradient>
+	<path class="st2" d="M138.6,49.9c-1.9,6.2-5.8,11.5-10.9,15.3c-3.8,5.1-9.1,9-15.3,10.9C125.2,72.8,135.3,62.7,138.6,49.9z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="83.5966" y1="20.7215" x2="62.5629" y2="3.0987">
+		<stop  offset="0" style="stop-color:#292660"/>
+		<stop  offset="1" style="stop-color:#64A7DE"/>
+	</linearGradient>
+	<path class="st3" d="M78.8,16.3c3.8-5.1,9.1-9,15.3-10.9C81.3,8.7,71.1,18.8,67.8,31.6C69.8,25.4,73.7,20.1,78.8,16.3z"/>
+	<linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="158.3839" y1="55.1501" x2="42.5097" y2="10.4033">
+		<stop  offset="0" style="stop-color:#DF6543"/>
+		<stop  offset="0.7252" style="stop-color:#7E0000"/>
+		<stop  offset="0.9274" style="stop-color:#C8370D"/>
+		<stop  offset="0.9499" style="stop-color:#B02509"/>
+		<stop  offset="1" style="stop-color:#7E0000"/>
+	</linearGradient>
+	<path class="st4" d="M112.3,5.4c-2.9-0.8-6-1.1-9.1-1.1c-3.2,0-6.2,0.4-9.1,1.1c-6.2,1.9-11.5,5.8-15.3,10.9
+		c-3.8,5.1-6,11.3-6,18.1c0,2.2,0.2,4.3,0.7,6.3c1.6,7.4,5.8,13.8,11.7,18.1c-3.8-5.1-6-11.3-6-18.1s2.2-13.1,6-18.1
+		c4.3-5.9,10.7-10.1,18.1-11.7c2-0.4,4.2-0.7,6.3-0.7c6.8,0,13.1,2.2,18.1,6C123.9,11.2,118.5,7.3,112.3,5.4z"/>
+	<linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="116.6608" y1="72.5362" x2="94.4901" y2="29.9003">
+		<stop  offset="0" style="stop-color:#292660"/>
+		<stop  offset="5.909347e-02" style="stop-color:#2C2E67"/>
+		<stop  offset="0.8721" style="stop-color:#5C97CE"/>
+		<stop  offset="1" style="stop-color:#64A7DE"/>
+	</linearGradient>
+	<path class="st5" d="M133,40.8c-1.6-7.4-5.8-13.8-11.7-18.1c3.8,5.1,6,11.3,6,18.1s-2.2,13.1-6,18.1c-4.3,5.9-10.7,10.1-18.1,11.7
+		c-2,0.4-4.2,0.7-6.3,0.7c-6.8,0-13.1-2.2-18.1-6c3.8,5.1,9.1,9,15.3,10.9c2.9,0.8,6,1.1,9.1,1.1c3.2,0,6.2-0.4,9.1-1.1
+		c6.2-1.9,11.5-5.8,15.3-10.9c3.8-5.1,6-11.3,6-18.1C133.7,44.9,133.4,42.8,133,40.8z"/>
+	<text transform="matrix(1 0 0 1 0.9155 113.0313)" class="st6 st7 st8">Ponto Inova</text>
+	<text transform="matrix(1 0 0 1 12.6265 135.4668)" class="st9 st10 st11">Tecnologia &amp; Inovação</text>
+</g>
+</svg>
